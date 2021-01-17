@@ -1,0 +1,21 @@
+---
+Language: Cpp
+Standard: Cpp11
+BasedOnStyle: LLVM
+
+ColumnLimit: 80
+MaxEmptyLinesToKeep: 2
+PointerAlignment: Left
+SortIncludes: false
+AlwaysBreakAfterDefinitionReturnType: true
+
+AlignConsecutiveDeclarations: true
+AlignConsecutiveAssignments: true
+
+IndentPPDirectives: AfterHash
+IndentCaseLabels: true
+
+BinPackArguments: false
+BinPackParameters: false
+ExperimentalAutoDetectBinPacking: false
+AllowAllParametersOfDeclarationOnNextLine: false

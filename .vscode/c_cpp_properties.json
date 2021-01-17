@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "compilerPath": "/usr/bin/g++-10",
+            "compilerArgs": [],
+            "cppStandard": "c++17",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/include"
+            ]
+        }
+    ],
+    "version": 4
+}
